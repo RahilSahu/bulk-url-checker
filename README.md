@@ -1,4 +1,5 @@
 # Bulk URL Checker
+![tests](https://github.com/RahilSahu/bulk-url-checker/actions/workflows/tests.yml/badge.svg)
 
 A small, zero-dependency Python tool that checks a whole list of URLs
 in one run and writes a clean CSV report: final URL after redirects,
